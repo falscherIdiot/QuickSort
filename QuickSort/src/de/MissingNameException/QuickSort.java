@@ -11,7 +11,7 @@ public class QuickSort {
 	private static int steps = 0;
 	
 	/**
-	 * Takes last element as pivot and corrects its possision
+	 * Takes last element as pivot and corrects its position
 	 * @param list ArrayList
 	 * @param low int
 	 * @param high int
